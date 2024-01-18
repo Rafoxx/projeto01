@@ -19,23 +19,14 @@ Inseri neste projeto minha foto e links para minhas redes sociais, proporcionand
 
 Inclua um link para a demo do seu projeto, se aplicável.
 
-[Visualizar Demo](https://seusite.com)
+[Visualizar Demo](https://rafoxx.github.io/projeto01/)
 
 ## Tecnologias Utilizadas
-
-Destaque as tecnologias principais que você usou no desenvolvimento do seu site.
 
 - HTML
 - CSS
 - JavaScript
 
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/projeto01.git
 
-# Entre no diretório
-cd projeto01
-
-# Abra o arquivo index.html no seu navegador
 
